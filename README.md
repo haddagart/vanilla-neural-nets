@@ -1,4 +1,4 @@
-# Vanilla Python Neural Network
+# Vanilla Python Neural Network (WIP)
 > An implementation of a neural network using raw Python and linear algebra libraries mostly NumPy.
 > This implementation is based on the book of : Neural Networks from Scratch by Harrison Kinsley and Daniel Kukiela. [YouTube playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) is available.
 
